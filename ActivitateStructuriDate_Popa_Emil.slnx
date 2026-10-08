@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ActivitateStructuriDate_Popa_Emil/ActivitateStructuriDate_Popa_Emil.vcxproj" />
+</Solution>
